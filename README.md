@@ -1,1 +1,1 @@
-# LeagueData <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+# LeagueData <img src="https://cdn2.steamgriddb.com/icon/882137f311c5728f8e257e56820af92c.png" />
