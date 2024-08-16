@@ -1,1 +1,1 @@
-# LeagueData <img src="https://cdn2.steamgriddb.com/icon/882137f311c5728f8e257e56820af92c.png" />
+# LeagueData <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FLeagueofLegendsBrasil%2F&psig=AOvVaw1MQ_EwERFg7XSWUIqX5Mk0&ust=1723926984231000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjGndGu-ocDFQAAAAAdAAAAABA5" />
