@@ -1,1 +1,1 @@
-# LeagueData <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FLeagueofLegendsBrasil%2F&psig=AOvVaw1MQ_EwERFg7XSWUIqX5Mk0&ust=1723926984231000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLjGndGu-ocDFQAAAAAdAAAAABA5" />
+# LeagueData <img src="https://styles.redditmedia.com/t5_2ulx7/styles/communityIcon_in6po09c977b1.png" />
